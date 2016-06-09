@@ -18,10 +18,10 @@ cls.service_type = "sandbox"
 
 
 # "Access Key ID" from AWS -- like a public key
-cls.aws_account_id = "AKIAIV4PRZNG3FIGDCCQ"
+cls.aws_account_id = ""
 
 # "Secret Access Key" from AWS -- like a private key
-cls.aws_account_key = "vG9WojwJRL8WuxrltXGPAcFAR6rphZ3rUr5ZWsH+"
+cls.aws_account_key = ""
 
 
 
