@@ -1,0 +1,5 @@
+title:Test HITs
+description:Make sure these HITs worked
+time_limit:60*60
+reward:3.50
+keywords:Mock,Testing,Ignore
